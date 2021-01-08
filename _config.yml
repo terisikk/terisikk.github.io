@@ -1,0 +1,19 @@
+# Site settings
+title: 'Agile Emperor' # Your Title
+tagline: 'How does agile work in a corporation?' # A brief tagline for your site
+sidebar_image: /images/bonaparte.jpg
+
+permalink: /blog/:year/:month/:title.html
+
+# Build settings
+markdown: kramdown
+
+timezone: Europe/Helsinki
+email: teemu.risikko@gmail.com
+description: >
+  A blog about my experiences about agile in corporate setting
+url: "https://terisikk.github.io/"
+twitter_username: TeemuRisikko
+github_username: terisikk
+exclude: [debug1.ps1]
+excerpt_separator: <!-- excerpt-end -->
