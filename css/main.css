@@ -179,7 +179,8 @@ header .container {
 
 @media screen and (max-width: 960px){
   #home-header .container {
-    padding: 100px 50px;
+    padding: 0px 50px 0px 50px;
+    margin-top: 250px;
   }
 
   header .container {
