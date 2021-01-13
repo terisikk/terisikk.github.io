@@ -21,17 +21,33 @@ Automotive computer systems might very well be one of the most complex in all in
 
 At the same time, code reuse between generations is minimal due to highly optimized ECU specific code. Reuse is complex even between same-generation variants, since the market requires loads of tailoring, especially between regions. 
 
-The automotive industry has modularized over the years. Original equipment manufacturers (OEM) — the companies that we identify as auto makers — mainly integrate the parts that tiers of suppliers produce. Contemporary software systems, however, require communication between all these systems, forcing an OEM to take responsibility also of software integration. This creates a problem: not many OEMs have the required software expertise yet. 
+The automotive industry has modularized over the years. Original equipment manufacturers (OEM) — the companies that we identify as auto makers — mainly integrate the parts that tiers of suppliers produce. Contemporary software systems, however, require communication between all these systems, forcing an OEM to take responsibility also of software integration. 
 
 As a result, experts having knowledge about both manufacturing and embedded IT systems are highly sought after and often need to split their time between multiple projects.
 
 ## What challenges you face with DevOps in automotive?
 
-OEMs claiming back software expertise is a positive trend, and I expect it to result in a better overall system design in the future. 
+OEMs claiming back software expertise is a positive trend, and I expect it to result in a better overall system design in the future. It will take some time, however: not many OEMs have the required software expertise yet, and outsource the work to companies similar to where I work. 
+
+Auto makers are very used to thinking about cars as a sum of their parts than can be assembled into a neat package to be delivered as-is and maintained as little as possible later on. The underlying organizational structures support this "complete package" -model, creating organizational silos that hinder software development. 
+
+This organizational and even geographical distance between different suppliers is detrimental for developing IT systems that require extensive knowledge about different processes. In my work, I've sometimes seen the best engineers needing to split their focus so much that it becomes counter-productive for the projects they are involved in. 
+
+If DevOps is a goal for your organization, a different approach is needed: systems thinking. OEMs need to view their cars as embedded IT systems that require comprehensive understanding, and start to develop them that way. Delivering complete features instead of components that require extensive integration in the late stage of development. Usually this requires restructuring the teams doing the development from component to feature oriented.
+
+To ramp up feature teams you might also need to change the way you develop and deploy those features. 
+
+### The problems of embedded software
+
+Tesla-pioneered over-the-air updates are a crucial enabler for DevOps-style development for cars: getting software updates in to a car without needing to physically stick a USB-device into it does all the difference. And just so, for example [Ford](https://corporate.ford.com/articles/products/over-the-air-software-updates.html) and [Volkswagen](https://www.continental.com/en/press/press-releases/volkswagen-id3-236882) have big plans for OTA updates. 
+
+This change in style requires tremendous architectural rework from the auto makers. Current models are too rigid for imagining car as something other than a complete package that will not be changed later on. To allow delivering new features to existing cars, vehicle architectures need a full makeover. For example adaptive AUTOSAR is an attempt to provide something like that. 
+
+But new standards bring new problems. 
 
 ### The surprising drawback of standardization
 
-Because of the complexity of automotive software, different standards have emerged that OEMs expect their softaware suppliers to follow. 
+Because of the complexity of automotive software, different standards have emerged that OEMs expect their software suppliers to follow. 
 
 While standards are a good thing from the consumer point of view, they are also major sources of misunderstanding. For example, agile and ASPICE (Automotive Software Performance Improvement and Capability dEtermination) are compatible with each other, but the way ASPICE is presented creates confusion. Consider this V-model that is often referred to in automotive:
 
@@ -40,14 +56,6 @@ While standards are a good thing from the consumer point of view, they are also 
 I's an easy mistake to understand it as stage gates, or to apply iterations only for the bottom part. In truth, ASPICE operates on the WHAT-level of development, and agile on the HOW-level, making them compatible. So in other words, you can define, document, implement and test anything that ASPICE requires within your existing agile processes, and not in a strict sequence. 
 
 DevOps, however, is a different matter: automation level required to combine ASPICE with continuous delivery can be costly business with automotive. 
-
-### The problems of embedded software
-
-Tesla-pioneered over-the-air updates are a crucial enabler for DevOps-style development for cars: getting software updates in to a car without needing to physically stick a USB-device into it does all the difference. And just so, for example [Ford](https://corporate.ford.com/articles/products/over-the-air-software-updates.html) and [Volkswagen](https://www.continental.com/en/press/press-releases/volkswagen-id3-236882) have big plans for OTA updates. 
-
-This change in style requires tremendous architectural rework from the auto makers. Current models are too rigid for imagining car as something other than a complete package that will not be changed later on. To allow delivering new features to existing cars, vehicle architectures need a full makeover. For example adaptive AUTOSAR is an attempt to provide something like that. 
-
-Even with new architectural models, for DevOps the problem of automated testing remains. 
 
 ### Automotive automation
 
