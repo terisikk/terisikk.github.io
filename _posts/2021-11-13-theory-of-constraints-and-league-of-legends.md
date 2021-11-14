@@ -19,7 +19,7 @@ And now I will make a tongue-in-cheek attempt to explain that theory with the he
 
 <!-- excerpt-end -->
 
-[League of Legends](https://www.leagueoflegends.com/en-gb/) is a hugely popular competitive mutliplayer game where you battle in a big arena with your team against another, and it has inspired me to improve things in my worklife, and also the other way around. So let's get to it. 
+[League of Legends](https://www.leagueoflegends.com/en-gb/) is a hugely popular competitive multiplayer game where you battle in a big arena with your team against another, and it has inspired me to improve things in my worklife, and also the other way around. So let's get to it. 
 
 ## The Goal
 
@@ -96,7 +96,7 @@ For example, you could take better base timings so that you can do the conversio
 
 The same goes for other power generating objectives. Make sure you synchronize your rotations so that you are not missing the next important objective, like a dragon. It's more important for the end goal than "processing" something less valuable. 
 
-So, in within your business you would want to ensure that the constraint always has enough people working on it, and it is always given the highest priority in actions like maintenance or rotations. 
+So, within your business you would want to ensure that the constraint always has enough people working on it, and it is always given the highest priority in actions like maintenance or rotations. 
 
 What was the LoL goal again? Ah yes, push the turrets and the Nexus. Whatever you do, remember to keep doing that.
 
