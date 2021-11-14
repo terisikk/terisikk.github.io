@@ -346,6 +346,11 @@ article li {
   }
 }
 
+.caption {
+  max-width: 100%;
+  height: auto;
+}
+
 article a {
   color: #C55A3A;
   text-decoration: none;
