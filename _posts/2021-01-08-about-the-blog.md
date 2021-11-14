@@ -15,7 +15,7 @@ Agile was always meant to be a lightweight discipline to develop software. With 
 These organizations might have decades of experience working from the exact opposite philosophy than the manifesto. What challenges will emerge in the transformation? Why do we so often hear the phrase "agile is dead"? And most importantly, why should we even care?
 
 <!-- excerpt-end -->
-This blog aims to drill down into the above questions and beyond from my own perspective. My experience comes from working as a Scrum Master in an automotive company with several thousand employees. Automotive software development has it's roots deeply in manufacturing business, so it's an excellent viewpoint to talk about agile in a larger and more conservative setting. 
+This blog aims to drill down into the above questions and beyond from my own perspective. My experience comes from working as a Scrum Master and a consultant in different IT domains, mainly within bigger organizations.
 
 You can expect to hear a lot of insights about product development, team dynamics, organizational pain points and so on. My views are my own, but you can be sure that I firmly express the same opinions in my daily work. 
 

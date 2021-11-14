@@ -31,7 +31,7 @@ OEMs claiming back software expertise is a positive trend, and I expect it to re
 
 ## The surprising drawback of standardization
 
-Because of the complexity of automotive software, different standards have emerged that OEMs expect their softaware suppliers to follow. 
+Because of the complexity of automotive software, different standards have emerged that OEMs expect their software suppliers to follow. 
 
 While standards are a good thing from the consumer point of view, they are also major sources of misunderstanding. For example, agile and ASPICE (Automotive Software Performance Improvement and Capability dEtermination) are compatible with each other, but the way ASPICE is presented creates confusion. Consider this V-model that is often referred to in automotive:
 
