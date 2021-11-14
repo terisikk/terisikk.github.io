@@ -124,6 +124,8 @@ Rinse and repeat.
 
 {% include captionimage.html src="lol/nasus.jpg" caption="The cycle of life and death continues." %}
 
+Interested in more? Have a look into a more jargon-filled description for example at [Lean Production](https://www.leanproduction.com/theory-of-constraints/), or check out the original book by Dr. Goldratt, [The Goal](https://www.goodreads.com/book/show/113934.The_Goal).
+
 
 ---
 
