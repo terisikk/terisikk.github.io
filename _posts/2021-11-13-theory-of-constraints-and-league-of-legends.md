@@ -11,8 +11,6 @@ comments: true
 featured_image: /images/lol/augmented.jpg
 ---
 
-## What's this now?
-
 Ah yes, the Theory of Constraints (ToC) by Dr. Eliyahu Goldratt. A theory of prioritizing your improvement actions to the biggest bottleneck within your workflow, one of the best yet simplest theory of lean production management. Revised on factory floors and now utilized in many other places, like in the IT industry. 
 
 And now I will make a tongue-in-cheek attempt to explain that theory with the help of... League of Legends? What could go wrong?
