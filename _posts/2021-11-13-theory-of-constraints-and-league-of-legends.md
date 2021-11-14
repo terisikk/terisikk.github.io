@@ -19,6 +19,8 @@ And now I will make a tongue-in-cheek attempt to explain that theory with the he
 
 {% include captionimage.html src="lol/league.png" caption="League of Legends." %}
 
+<!-- excerpt-end -->
+
 [League of Legends](https://www.leagueoflegends.com/en-gb/) is a hugely popular competitive mutliplayer game where you battle in a big arena with your team against another, and it has inspired me to improve things in my worklife, and also the other way around. So let's get to it. 
 
 ## The Goal
