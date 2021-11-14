@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Theory of Constraints and League of Legends"
-date: 2021-01-08 12:00:00 +0300
+date: 2021-11-14 12:00:00 +0300
 categories: 
   - business
   - lol
