@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 heuristics for an agile way of working"
+title: "10 Heuristics for Agile Software Delivery"
 date: 2021-12-12 12:00:00 +0300
 categories: 
   - devops
