@@ -1,29 +1,31 @@
 ---
 layout: post
 title: "A Story of (C)leaning up"
-date: 2021-01-08 12:00:00 +0300
+date: 2022-01-20 11:00:00 +0300
 categories: 
-  - agile
-  - devops
-  - programming
+  - lean
+  - philosophy
+  - psychology
 
 comments: true
-featured_image: /images/bonaparte.jpg
+featured_image: /images/washing.jpg
 ---
 
-Some time ago I had a profound revelation about how I optimise things in my daily life. I had areas where I tended to do a lot of local optimisation, thinking that my way of doing something was efficient. Then one day I had a conversation with a friend about this, and I realised that instead of local efficiency, I should try to maximize my total happiness. 
+Some time ago I had a profound revelation about how I optimise things in my daily life. I had areas where I tended to do a lot of local optimisation, thinking that my way of doing something was efficient. Then one day I had a conversation with a friend about this, and I realised that efficiency is not always the right thing to focus on. I would be much happier by optimising around, well, happiness. 
 
 I know, a very engineer-y way of thinking about something as intangible as happiness, but hear me out. 
 
-I was making myself more miserable by doing things in ways that I thought were efficient, so it was time to put what I preach at work to use at home too. I started thinking my homelife from a new perspective, and in this post I will explore some things that I found. 
+I was making myself more miserable by doing things in ways that I thought were efficient, so it was time to put what I preach at work to use at home too. I started thinking my homelife from a new perspective, and in this post I will explore some things that I found out about cleaning.
+<!-- excerpt-end -->
+
 
 ## The Five Whys of mess
 
-For the longest time, I thought that I'm just a lazy cleaner and nothing can help with that, especially if I'm stressed out. So usually I just silently accepted the situation and tried to only occasionally fight back against entropy, mainly if I was getting guests. 
+For the longest time, I thought that I'm just a lazy cleaner and nothing could help with that, especially if I'm stressed out. So usually I just silently accepted the situation and tried to only occasionally fight back against entropy, mainly if I was getting guests. 
 
 But this time I decided to not accept that outcome. I knew that a messy house was a blocker for me, that prevented me from being creative. I thought of the brief moment in one of my earlier apartments, when I actually was happy about the state of the cleanliness for a while, and tried to deconstruct the things that helped back then. 
 
-The Five Why's is a powerful technique for identifying real root causes for problems. You keep listing the effect for every initial cause you identify, until you find the real big cause-effect relationships underneath. So I knew I had to tackle the problem of a messy home with it. I needed to think way beyond the first why of "why do I have such a hard time keeping things clean". Why did I manage to do it back then?
+The Five Whys is a powerful technique for identifying real root causes for problems. You keep listing the effect for every initial cause you identify, until you find the real big cause-effect relationships underneath. So I knew I had to tackle the problem of a messy home with it. I needed to think way beyond the first why of "why do I have such a hard time keeping things clean". Why did I manage to do it back then?
 
 The results of my thinking are probably unsurprising to people who already manage to keep their homes tidy, but for me they were groundbreaking. Here's one impactful chain of reasoning:
 
@@ -37,7 +39,7 @@ So I started thinking how to tackle my biggest nemesis: dirty dishes.
 
 I used to take pride in how "efficiently" I filled up the dishwasher. Neatly ordered rows of cups, plates and cutlery. In reality though I had a pile of dirty dishes laying around because I had no energy to unpack the huge amount of dishes that I stacked to the machine. 
 
-I had to pick up Lean teachings in my kitchen. It was time to lower the batch size and practice "just in time". In other words, I started stacking the machine "inefficiently". Big bowls and pots that I used to wash by hand? In to the machine they go, right after using them. 
+I had to pick up Lean teachings in my kitchen. It was time to lower the batch size and practice "just in time". In other words, I started stacking the machine "inefficiently". Big bowls and pots that I used to wash by hand? In to the machine they went, right after using them. 
 
 What happened was that it took about 50% less time to fill up the machine, so I could spend that remaining energy to actually *empty* the machine too. This of course meant that I am now washing dishes more often, but it's way better than gathering an inventory of dirty dishes in the sink for days.
 
@@ -49,7 +51,7 @@ As with dishes, I also had the problem of accumulating trash in different contai
 
 In Lean, this could be called inventory. Keeping large inventory is expensive, and even detrimental when trying to identify bottlenecks in your work. This was the case also with my daily life. There was a problem in the flow of trash through my household. For once, I got to reduce waste in a very literal sense. 
 
-To improve the flow, I first had to reduce input. Putting the "no ads" sticker to the postbox cut incoming paper waste by 95%. Switching to a few different products in the supermarket helped reducing plastic waste. Comically, I even switched my after-sauna long drink to a glass of rum and cut the amount of cans a lot (OK, this was really unrelated, but it did help). 
+To improve the flow, I first had to reduce input. Putting the "no ads" sticker to the postbox cut incoming paper waste by 95%. Switching to a few differently packaged products in the supermarket helped reducing plastic waste. Comically, I even switched my after-sauna long drink to a glass of rum and cut the amount of cans a lot (OK, this was really unrelated, but it did help). 
 
 With the remaining stuff, a bit of psychology was needed. In order to make habit of something, it is best to pair it with something else that you already do. Since I was lousy at taking the trash out separately, I started taking it out every time I left the house to do something else, and it worked fairly well. There's probably a lot of things I can improve on this front still, and I am looking in to the zero waste community with curiosity to get some ideas. 
 
@@ -57,9 +59,9 @@ So far I had focused on the kitchen, but there were clear problems elsewhere on 
 
 ## The Five S of laundry circulation
 
-I had a similar problem with dirty clothes that I had with dishes and trash: too much clothes lying around, around the house or in the full laundry basket or drying up. But this time only smaller batch size was not going to cut it. I needed heavier weapons. The Five S of Lean production - or laundry management - were perfect for tackling this problem: sort, set in order, shine, standardize, sustain. Those familiar with the KonMari-method will find parallels with this technique. 
+I had a similar problem with dirty clothes that I had with dishes and trash: too much clothes lying around the house or in the full laundry basket or drying up. But this time only smaller batch size was not going to cut it. I needed heavier weapons. The Five S of Lean production - or laundry management - were perfect for tackling this problem: sort, set in order, shine, standardize, sustain. Those familiar with the KonMari-method will find parallels with this technique. 
 
-__Sorting__. there were too many dirty clothes lying around partly because _I had too many clothes_. So I got rid of the items that I had no real use for (and that did not spark joy), and in a bizarre way I found myself using a wider variety of the items remaining. 
+__Sorting__. there were too many dirty clothes lying around partly because _I had too many clothes_. So I got rid of the items that I had no real use for (and that did not spark joy), and in a bizarre way I also found myself using a wider variety of the items remaining. 
 
 __Set in order__. I added new drawers to my closet for keeping the clothes easily accessible. Since I had to chase cats out of the closet every time I opened it, I reordered the drawers in a way that cats could not get behind them.
 
@@ -77,11 +79,12 @@ So during my sick leave, I wrote down things that I actually enjoy and value bot
 
 Then I went back to the five whys, this time with a different problem in mind: how to clean up stress instead of mess.
 
-I had focused on cleaning, because I understood that the mess was keeping me from being creative and learning new things. But work related dissatisfaction was a way bigger contributor to the stress problem. I decided to switch jobs. This was a necessary decision for a fresh start in a bigger scale, to reset the burden of responsibilities to make time for doing the things I enjoy: learning and helping other people. 
+I had focused on cleaning, because I understood that the mess was keeping me from being creative and learning new things, so a clean house would still be important. But work related dissatisfaction was a way bigger contributor to the stress problem. I decided to switch jobs. This was a necessary decision for a fresh start in a bigger scale, to reset the burden of responsibilities to make time for doing the things I enjoy: learning and helping other people. 
 
-I would like for this story to have a happy ending, but the truth is that it's still a work in progress. But things are getting better, since my goals are now clearer. I keep making small improvements to the right direction, and also slowly getting the hang of how to keep my house clean. 
+But this is a separate story that I will probably write about more later. The point is, I had to also view cleaning as something that was helping me with my goals to actually sustain it. This made things psychologically much easier.
 
-I'm quite sure optimising happiness will require other radical changes in the future too.
+## Going further
 
+As you might have noticed, so far I had only focused on stuff that is laying around, and this is where I am still. However, having an environment that is less cluttered has helped in the actual cleaning. Kitchen counters are easier to wipe when they don't have dishes on them. Floors easier to vacuum when there are no clothes lying around. I finally invested in a robot vacuum since it can actually manage to move around the house. 
 
-
+All in all, there's still plenty of things to learn and a lot of other things to optimise. Maybe I'll write a part two if I ever manage to get there. But right now I will enjoy the benefits of my new, more permanent habits. 
