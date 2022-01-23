@@ -85,6 +85,6 @@ But this is a separate story that I will probably write about more later. The po
 
 ## Going further
 
-As you might have noticed, so far I had only focused on stuff that is laying around, and this is where I am still. However, having an environment that is less cluttered has helped in the actual cleaning. Kitchen counters are easier to wipe when they don't have dishes on them. Floors easier to vacuum when there are no clothes lying around. I finally invested in a robot vacuum since it can actually manage to move around the house. 
+As you might have noticed, so far I had only focused on stuff that is laying around, and this is where I am still. However, having an environment that is less cluttered has helped in the actual cleaning. Kitchen counters are easier to wipe when they don't have dishes on them. Floors easier to vacuum when there are no clothes scattered around. I finally invested in a robot vacuum since it could actually manage to move around the house. 
 
 All in all, there's still plenty of things to learn and a lot of other things to optimise. Maybe I'll write a part two if I ever manage to get there. But right now I will enjoy the benefits of my new, more permanent habits. 
