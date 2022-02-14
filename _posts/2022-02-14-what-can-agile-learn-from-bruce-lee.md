@@ -53,7 +53,7 @@ But change is scary. What does Bruce Lee have to say about change that could hel
 
 Bruce believed in a "changeless change". While it appears that we stay the same, both our body and the system around us is still constantly changing. In order to stay stable within that system, we also must change. That is the paradox of changing to stay the same. If we try to oppose that change around us, we are doomed to fail. 
 
-To keep on changing, we must become self-regulating. If we try to centralize the thinking and separate it too much from doing, we become paralysed by the constant analysis. For example, if we think too much about our breathing and how our respiratory system works, we become too self-concious about breathing and need to focus our energy to just keep breathing. In a very Taoist way, we need to organise ourselves harmoniously within the system we live in. 
+To keep on changing, we must become self-regulating. If we try to centralize the thinking and separate it too much from doing, we become paralysed by the constant analysis. For example, if we think too much about our breathing and how our respiratory system works, we become too self-conscious about breathing and need to focus our energy to just keep breathing. In a very Taoist way, we need to organise ourselves harmoniously within the system we live in. 
 
 I can personally see the similarities between this self-regulating way and the self-organizing teams that I often talk about. Self-organized teams are not governed by outside forces, but they are supported and given freedom by those forces. Because of this structuring, they can move more effortlessly, since they can do both the thinking and doing within their own team, and not succumb to this outside analysis paralysis. 
 
