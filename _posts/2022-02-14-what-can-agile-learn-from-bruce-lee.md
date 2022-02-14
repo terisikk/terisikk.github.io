@@ -76,7 +76,7 @@ There is also another thing to learn from the finger in the metaphor of the Moon
 
 ## Styles separate
 
-I one of his interview, Bruce explains that he does not believe in styles, since styles separate. Instead, he believes in honest self-expression and the continuing growth through that. 
+In one of his interviews, Bruce explains that he does not believe in styles, since styles separate. Instead, he believes in honest self-expression and the continuing growth through that. 
 
 I have seen the separative effect of "styles" often with the ever-lasting debate of Kanban vs. Scrum, SAFe vs. LeSS, Lean vs. Agile and so on. These kinds of discussions are mostly fruitless if you think about frameworks as the gospel truth, and I'm guilty of falling in to the doctrine trap myself every now and then. Focusing on the form will get you only so far, but understanding the broader principles underneath is the key to mastering your craft. 
 
