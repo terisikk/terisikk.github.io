@@ -432,3 +432,9 @@ figcaption{
   font-size: 12px;
   font-style: italic;
 }
+
+sup {
+  line-height: 0;
+  vertical-align: super;
+  font-size: smaller;
+}
