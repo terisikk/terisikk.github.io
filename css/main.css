@@ -55,9 +55,6 @@ blockquote {
   font-style: italic;
   color: #666;
   background-color: #ddd;
-  background-image: url(../images/breakpoint.png);
-  background-position: 0px 6px;
-  background-repeat: no-repeat;
 }
 
 blockquote p {
