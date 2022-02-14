@@ -9,13 +9,19 @@ categories:
 
 comments: true
 featured_image: /images/bruce-lee.jpg
+excerpt: "I've always enjoyed watching kung fu movies. The fluid movement of the fight fascinates me, but it was only recently I realised how much I also enjoy the philosophy that is usually found in these types of movies. I watched the document <em>Be Water</em>, that recounted the life of Bruce Lee. 
+<br/>
+<br/>
+The documentary carefully explains that Bruce Lee, whose movies I have seen many times, was not only a martial artist and a movie start, but also a philosopher. I became curious how his philosophies affected his thinking and his martial arts, and whether there was something I could learn from that man that I could apply to my own work. 
+<br/>
+<br/>
+"
+
 ---
 
-I've always enjoyed watching kung fu movies. The fluid movement of the fight fascinates me, but it was only recently I realised how much I also enjoy the philosophy that is usually found in these types of movies. I watched the document "Be Water", that recounted the life of Bruce Lee[^1]. 
+I've always enjoyed watching kung fu movies. The fluid movement of the fight fascinates me, but it was only recently I realised how much I also enjoy the philosophy that is usually found in these types of movies. I watched the documentary _Be Water_, that recounted the life of Bruce Lee[^1]. 
 
-The document carefully explains that Bruce Lee, whose movies I have seen many times, was not only a martial artist and a movie start, but also a philosopher. I became curious how his philosophies affected his thinking and his martial arts, and whether there was something I could learn from that man that I could apply to my own work. 
-
-<!-- excerpt-end -->
+The documentary carefully explains that Bruce Lee, whose movies I have seen many times, was not only a martial artist and a movie start, but also a philosopher. I became curious how his philosophies affected his thinking and his martial arts, and whether there was something I could learn from that man that I could apply to my own work. 
 
 So I ordered the book _The Warrior Within: The Philosophies of Bruce Lee_, written by John Little[^2]. 
 
